@@ -75,7 +75,7 @@ imaginary/
 
 ## 📞 Contact
 
-* 📧 Email: [imaginary@google.com](mailto:imaginary@google.com
+* 📧 Email: imaginary@google.com
 
 ---
 
